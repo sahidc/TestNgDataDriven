@@ -43,7 +43,7 @@ public class DataDivenTest {
 		//d.findElement(By.name("commit")).click();
 		Thread.sleep(5000);
 		//Assert.assertTrue(d.getTitle().matches("BrowserStack Login | Sign Into The Best Mobile & Browser Testing Tool"), "Invalid credentials");
-		//System.out.println("Login successful");
+		System.out.println("Login successful");
 		}
 	}
 
